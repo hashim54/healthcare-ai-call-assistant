@@ -6,7 +6,7 @@
 
 # Call Automation - Quick Start Sample
 
-This is a sample application demonstrated during Microsoft Ignite 2024. The application has been modified to work with outbout call automation API of Azure Communication Service. 
+This is a sample application demonstrated during Microsoft Ignite 2024. The application has been modified to work for healthcare conversations and with the outbout call automation API of Azure Communication Service. 
 The app highlights an integration of Azure Communication Services with Azure OpenAI Service GPT4-Realtime and tools to enable intelligent conversational agents grounded on internal data. 
 
 ## Prerequisites
